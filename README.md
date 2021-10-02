@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<p align="center" Hello! My name is Tyler! </p>
+<p> Hello! My name is Tyler! <align="center"></p>
 
 
 ## 🙋‍♂️ About Me
@@ -23,5 +23,3 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DeveloperEnder's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=developerender&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 My Github Stats
