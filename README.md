@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<p> Hello! My name is Tyler! <align="center"></p>
+## Hello there! My name is Tyler!!
 
 
 ## 🙋‍♂️ About Me
