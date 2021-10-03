@@ -18,6 +18,5 @@
 <br/>
 
 
-    </a>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazimar&theme=radical" alt="hazimar" /></p>
 </p>
