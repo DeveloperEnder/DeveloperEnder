@@ -21,4 +21,5 @@
     <a href="">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DeveloperEnder's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=developerender&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazimar&theme=radical" alt="hazimar" /></p>
 </p>
