@@ -14,7 +14,8 @@ Current Works:
 - Valur Tech - Directing Advisor (Management) = IT Company
 - Beatz - Officer (Soon Council) = Music Discord Bot
 - Popularity Contest - Admin (Contributor+Marketing Manager) = Discord Bot
-
+- School Simplified - Associate Volunteer () = NPO + Discord Server
+- Programming Simplified - Moderator () = Discord Server + School Simplified Kid Org
 
 ![](https://komarev.com/ghpvc/?username=DeveloperEnder)
 
