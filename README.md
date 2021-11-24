@@ -24,4 +24,4 @@ Current Works:
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=DeveloperEnder&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="DeveloperEnder" /></p>  
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperEnder&theme=radical" alt="DeveloperEnder" /></p>
-<p><img align="right" src="[![DeveloperEnders's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=developerender)](https://github.com/anuraghazra/github-readme-stats)" </p>
+
