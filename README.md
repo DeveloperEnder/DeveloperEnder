@@ -18,6 +18,8 @@ Current Works:
 - School Simplified - Associate Volunteer () = NPO + Discord Server
 - Programming Simplified - Moderator () = Discord Server + School Simplified Kid Org
 
+## Github Stats
+
 ![](https://komarev.com/ghpvc/?username=DeveloperEnder)
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=DeveloperEnder&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="DeveloperEnder" /></p>
