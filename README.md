@@ -1,6 +1,7 @@
 ## Hello there! My name is Tyler!!
 
 Current Works:
+- Myself
 - TydiumCraft - Co Owner (Developer)
 - SkyEternal - Developer (Prisons)
 - Gamer Hub - Admin (Developer)
