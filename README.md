@@ -2,11 +2,19 @@
 
 Current Works:
 - Myself
-- TydiumCraft - Co Owner (Developer)
-- SkyEternal - Developer (Prisons)
-- Gamer Hub - Admin (Developer)
-- ThunderBoltMC - SystemAdmin (Developer)
-- GalaxyCraft - Developer (ServerWide)
+- TydiumCraft - Co Owner (Developer) = Minecraft
+- SkyEternal - Developer (Prisons) = Minecraft
+- Gamer Hub - Admin (Developer) = Minecraft
+- SolarRadio - Administrator (DJ+Executive) = Radio Station
+- (REDACTED) - Manager (Developer) = Minecraft
+- ThunderBoltMC - SystemAdmin (Developer) = Minecraft
+- LiTPS - Member (Sever Helper) = Clan
+- GalaxyCraft - Developer (ServerWide) = Minecraft
+- Valur Corporation - COO (Management) = Corporation
+- Valur Tech - Directing Advisor (Management) = IT Company
+- Beatz - Officer (Soon Council) = Music Discord Bot
+- Popularity Contest - Admin (Contributor+Marketing Manager) = Discord Bot
+
 
 ![](https://komarev.com/ghpvc/?username=DeveloperEnder)
 
