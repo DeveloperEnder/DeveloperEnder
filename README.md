@@ -9,6 +9,7 @@ Current Works:
 - (REDACTED) - Manager (Developer) = Minecraft
 - ThunderBoltMC - SystemAdmin (Developer) = Minecraft
 - LiTPS - Member (Sever Helper) = Clan
+- Vibez Development - Support Member (Tester) = Development Discord Group
 - GalaxyCraft - Developer (ServerWide) = Minecraft
 - Valur Corporation - COO (Management) = Corporation
 - Valur Tech - Directing Advisor (Management) = IT Company
