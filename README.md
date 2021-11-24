@@ -1,11 +1,11 @@
 ## Hello there! My name is Tyler!!
 
 Current Works:
-TydiumCraft - Co Owner (Developer)
-SkyEternal - Developer (Prisons)
-Gamer Hub - Admin (Developer)
-ThunderBoltMC - SystemAdmin (Developer)
-GalaxyCraft - Developer (ServerWide)
+-TydiumCraft - Co Owner (Developer)
+-SkyEternal - Developer (Prisons)
+-Gamer Hub - Admin (Developer)
+-ThunderBoltMC - SystemAdmin (Developer)
+-GalaxyCraft - Developer (ServerWide)
 
 ![](https://komarev.com/ghpvc/?username=DeveloperEnder)
 
