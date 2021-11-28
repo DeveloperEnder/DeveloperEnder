@@ -1,9 +1,9 @@
-## Hello there! My name is Tyler!!
+# Hello there! My name is Tyler!!
 
 # Current Works:
 - Myself
 
-# Minecraft
+### Minecraft
 - TydiumCraft - Co Owner (Developer)
 - SkyEternal - Developer (Prisons)
 - Gamer Hub - Admin (Developer)
