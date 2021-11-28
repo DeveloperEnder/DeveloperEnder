@@ -1,6 +1,7 @@
 # Hello there! My name is Tyler!!
 
-# Current Works:
+
+## Current Works:
 - Myself
 
 ### Minecraft
@@ -11,24 +12,25 @@
 - ThunderBoltMC - SystemAdmin (Developer)
 - GalaxyCraft - Developer (ServerWide)
 
-# Radio
+### Radio
 - SolarRadio - Administrator (DJ+Executive)
 
-# Competitive / Clan
+### Competitive / Clan
 - LiTPS - Member (Sever Helper)
 
-# Development Discord
+### Development Discord
 - Vibez Development - Support Member (Tester)
 - Beatz - Officer (Soon Council)
 - Popularity Contest - Admin (Contributor+Marketing Manager)
 
-# Companies
+### Companies
 - Valur Corporation - COO (Management)
 - Valur Tech - Director (Management)
 
-# Non Profit Organizations
+### Non Profit Organizations
 - School Simplified - Associate Volunteer
 - Programming Simplified - Moderator
+
 
 ## Github Stats
 
