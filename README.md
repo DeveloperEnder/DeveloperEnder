@@ -1,22 +1,34 @@
 ## Hello there! My name is Tyler!!
 
-Current Works:
+# Current Works:
 - Myself
-- TydiumCraft - Co Owner (Developer) = Minecraft
-- SkyEternal - Developer (Prisons) = Minecraft
-- Gamer Hub - Admin (Developer) = Minecraft
-- SolarRadio - Administrator (DJ+Executive) = Radio Station
-- (REDACTED) - Manager (Developer) = Minecraft
-- ThunderBoltMC - SystemAdmin (Developer) = Minecraft
-- LiTPS - Member (Sever Helper) = Clan
-- Vibez Development - Support Member (Tester) = Development Discord Group
-- GalaxyCraft - Developer (ServerWide) = Minecraft
-- Valur Corporation - COO (Management) = Corporation
-- Valur Tech - Directing Advisor (Management) = IT Company
-- Beatz - Officer (Soon Council) = Music Discord Bot
-- Popularity Contest - Admin (Contributor+Marketing Manager) = Discord Bot
-- School Simplified - Associate Volunteer () = NPO + Discord Server
-- Programming Simplified - Moderator () = Discord Server + School Simplified Kid Org
+
+# Minecraft
+- TydiumCraft - Co Owner (Developer)
+- SkyEternal - Developer (Prisons)
+- Gamer Hub - Admin (Developer)
+- (REDACTED) - Manager (Developer)
+- ThunderBoltMC - SystemAdmin (Developer)
+- GalaxyCraft - Developer (ServerWide)
+
+# Radio
+- SolarRadio - Administrator (DJ+Executive)
+
+# Competitive / Clan
+- LiTPS - Member (Sever Helper)
+
+# Development Discord
+- Vibez Development - Support Member (Tester)
+- Beatz - Officer (Soon Council)
+- Popularity Contest - Admin (Contributor+Marketing Manager)
+
+# Companies
+- Valur Corporation - COO (Management)
+- Valur Tech - Director (Management)
+
+# Non Profit Organizations
+- School Simplified - Associate Volunteer
+- Programming Simplified - Moderator
 
 ## Github Stats
 
