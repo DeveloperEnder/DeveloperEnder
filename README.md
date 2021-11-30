@@ -29,7 +29,7 @@
 
 ### Non Profit Organizations
 - School Simplified - Associate Volunteer
-- Programming Simplified - Moderator
+- Programming Simplified - Associate, Moderator, Web Team
 
 
 ## Github Stats
