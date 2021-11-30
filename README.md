@@ -1,35 +1,36 @@
 # Hello there! My name is Tyler!!
 
 
-## Current Works:
+## Current Works: (Discords Linked)
 - [Myself](https://www.github.com/DeveloperEnder)
 
 ### Minecraft
-- TydiumCraft - Co Owner (Developer)
-- SkyEternal - Developer (Prisons)
-- Gamer Hub - Admin (Developer)
+- [TydiumCraft](https://discord.gg/6aQv2MgC9T) - Co Owner (Developer)
+- [SkyEternal](https://discord.gg/zN7DUkgQbD) - Developer (Prisons)
+- [Gamer Hub](https://discord.gg/EyhxAmh897) - Admin (Developer)
 - (REDACTED) - Manager (Developer)
-- ThunderBoltMC - SystemAdmin (Developer)
-- GalaxyCraft - Developer (ServerWide)
+- [ThunderBoltMC](https://discord.gg/8p2H85UbWD) - SystemAdmin (Developer)
+- [GalaxyCraft](https://discord.gg/wqdw4qjvgB) - Developer (ServerWide)
 
 ### Radio
-- SolarRadio - Administrator (DJ+Executive)
+- [SolarRadio](https://discord.gg/gUMUGfsTtd) - Administrator (DJ+Executive)
+- [Beats](https://discord.gg/WRqDJFD9Rd) - Radio Helper (DJ)
 
 ### Competitive / Clan
-- LiTPS - Member (Sever Helper)
+- [LiTPS](https://discord.gg/xTNbc2ftQ5) - Member (Sever Helper)
 
 ### Development Discord
-- Vibez Development - Support Member (Tester)
-- Beatz - Officer (Soon Council)
-- Popularity Contest - Admin (Contributor+Marketing Manager)
+- [Vibez Development](https://discord.gg/MPgjCwvSuB) - Support Member (Tester)
+- [Beatz](https://discord.gg/JPTR85Vx3A) - Officer (Soon Council)
+- [Popularity Contest](https://discord.gg/62ZXy4reJy) - Admin (Contributor+Marketing Manager)
 
 ### Companies
-- Valur Corporation - COO (Management)
-- Valur Tech - Director (Management)
+- [Valur Corporation](https://discord.gg/Cb7zGS5enk) - COO (Management)
+- [Valur Tech](https://discord.gg/xjBhjsQRKR) - Director (Management)
 
 ### Non Profit Organizations
-- School Simplified - Associate Volunteer
-- Programming Simplified - Associate, Moderator, Web Team
+- [School Simplified](https://discord.gg/school) - Associate Volunteer
+- [Programming Simplified](https://discord.gg/EeRh3MjuzQ) - Associate, Moderator, Web Team
 
 
 ## Github Stats
