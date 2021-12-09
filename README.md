@@ -1,6 +1,7 @@
 # Hello there! My name is Tyler!!
 
 ## Socials
+- [Discord](https://discord.gg/3PXjdem4Xx)
 - [YouTube](https://www.youtube.com/channel/UC9ft2pQjYnHhrAK7YOFUpUg)
 
 ## Current Works: (Discords Linked)
