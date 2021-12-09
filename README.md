@@ -1,5 +1,7 @@
 # Hello there! My name is Tyler!!
 
+## Socials
+- [YouTube](https://www.youtube.com/channel/UC9ft2pQjYnHhrAK7YOFUpUg)
 
 ## Current Works: (Discords Linked)
 - [Myself](https://www.github.com/DeveloperEnder)
