@@ -12,7 +12,6 @@
 - [SkyEternal](https://discord.gg/zN7DUkgQbD) - Developer (Prisons)
 - [Gamer Hub](https://discord.gg/EyhxAmh897) - Admin (Developer)
 - (REDACTED) - Manager (Developer)
-- [ThunderBoltMC](https://discord.gg/8p2H85UbWD) - SystemAdmin (Developer)
 - [GalaxyCraft](https://discord.gg/wqdw4qjvgB) - Developer (ServerWide)
 
 ### Radio
