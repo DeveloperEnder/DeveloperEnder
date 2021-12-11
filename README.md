@@ -1,8 +1,11 @@
 # Hello there! My name is Tyler!!
 
-## Socials
+## Socials:
 - [Discord](https://discord.gg/3PXjdem4Xx)
 - [YouTube](https://www.youtube.com/channel/UC9ft2pQjYnHhrAK7YOFUpUg)
+
+## Hobbies:
+I like to play games, weither its online with friends, card games, board games, all types of games! Some games I like to play are Minecraft, COD, Roblox, GTA, FiveM, Valorant, Terraria, and some others! I also like music, I am currently learning how to play guitar. 
 
 ## Current Works: (Discords Linked)
 - [Myself](https://www.github.com/DeveloperEnder)
