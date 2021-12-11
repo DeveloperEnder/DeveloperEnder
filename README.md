@@ -24,7 +24,6 @@
 ### Development Discord
 - [Vibez Development](https://discord.gg/MPgjCwvSuB) - Support Member (Tester)
 - [Beatz](https://discord.gg/JPTR85Vx3A) - Officer (Soon Council)
-- [Popularity Contest](https://discord.gg/62ZXy4reJy) - Admin (Contributor+Marketing Manager)
 
 ### Companies
 - [Valur Corporation](https://discord.gg/Cb7zGS5enk) - COO (Management)
@@ -32,7 +31,7 @@
 
 ### Non Profit Organizations
 - [School Simplified](https://discord.gg/school) - Associate Volunteer
-- [Programming Simplified](https://discord.gg/EeRh3MjuzQ) - Associate, Moderator, Web Team
+- [Programming Simplified](https://discord.gg/EeRh3MjuzQ) - Associate, Moderator
 
 
 ## Github Stats
