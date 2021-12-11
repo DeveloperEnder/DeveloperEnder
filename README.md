@@ -1,4 +1,4 @@
-# Hello there! My name is Tyler!!
+# Hello there! My name is Tyler!! All my information about me is below, check some of my stuff out!
 
 ## Socials:
 - [Discord](https://discord.gg/3PXjdem4Xx)
