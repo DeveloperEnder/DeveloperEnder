@@ -19,7 +19,6 @@ I like to play games, weither its online with friends, card games, board games, 
 
 ### Radio
 - [SolarRadio](https://discord.gg/gUMUGfsTtd) - Administrator (DJ+Executive)
-- [Beats](https://discord.gg/WRqDJFD9Rd) - Radio Helper (DJ)
 
 ### Competitive / Clan
 - [LiTPS](https://discord.gg/xTNbc2ftQ5) - Member (Sever Helper)
@@ -30,7 +29,7 @@ I like to play games, weither its online with friends, card games, board games, 
 
 ### Companies
 - [Valur Corporation](https://discord.gg/Cb7zGS5enk) - COO (Management)
-- [Valur Tech](https://discord.gg/xjBhjsQRKR) - Director (Management)
+- [Valur.Host](https://discord.gg/xjBhjsQRKR) - Director (Management)
 
 ### Non Profit Organizations
 - [School Simplified](https://discord.gg/school) - Associate Volunteer
