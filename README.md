@@ -24,6 +24,7 @@ I like to play games, weither its online with friends, card games, board games, 
 - [LiTPS](https://discord.gg/xTNbc2ftQ5) - Server Helper
 
 ### Development Discord
+- [Vibez Network](https://discord.gg/ewVfW7Fg6p) - Co Owner
 - [Vibez Development](https://discord.gg/MPgjCwvSuB) - Support Member & Tester
 - [Beatz](https://discord.gg/JPTR85Vx3A) - Council
 
