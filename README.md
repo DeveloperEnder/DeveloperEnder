@@ -38,7 +38,7 @@ I like to play games, weither its online with friends, card games, board games, 
 ### Roblox
 - [CMZ Studios](https://www.roblox.com/groups/5495873/CMZ-Studios#!/about) - CEO & President
 - [Milkhouse](https://www.roblox.com/groups/5310033/Milkhouse#!/about) - Chairman
-- [Diamond9195 Commissions aka Diamond's Scripting](https://www.roblox.com/groups/5993023/Diamond9195-Commissions#!/about) - Trusted Member
+- [Diamond9195 Commissions {aka Diamond's Scripting}](https://www.roblox.com/groups/5993023/Diamond9195-Commissions#!/about) - Trusted Member
 - [Panda Hotels & Resorts](https://www.roblox.com/groups/4131628/Panda-Hotels-Resorts#!/about) - Board of Directors
 - [Tracé](https://www.roblox.com/groups/11752506/Trac#!/about) - Board of Trustees & Bot Developer
 - [SlashFragmentOnline](https://discord.gg/rYK6H8ABmP) - Developer
