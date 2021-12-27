@@ -16,6 +16,7 @@ I like to play games, weither its online with friends, card games, board games, 
 - [Gamer Hub](https://discord.gg/EyhxAmh897) - Admin & Developer
 - (REDACTED) - Manager & Developer
 - [GalaxyCraft](https://discord.gg/wqdw4qjvgB) - Manager & Developer
+- [JayTech Community](https://discord.gg/rDHMxb4fuq) - Developer
 
 ### Radio
 - [SolarRadio](https://discord.gg/gUMUGfsTtd) - Administrator (DJ+Executive)
