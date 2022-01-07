@@ -19,7 +19,7 @@ I like to play games, weither its online with friends, card games, board games, 
 ### Minecraft
 - [TydiumCraft](https://discord.gg/6aQv2MgC9T) - Co Owner & Developer
 - [SkyEternal](https://discord.gg/zN7DUkgQbD) - Developer
-- [Gamer Hub](https://discord.gg/EyhxAmh897) - Admin & Developer
+- [Gamer Hub](https://discord.gg/EyhxAmh897) - Admin
 - (REDACTED) - Manager & Developer
 - [GalaxyCraft](https://discord.gg/wqdw4qjvgB) - Manager & Developer
 - [JayTech Community](https://discord.gg/rDHMxb4fuq) - Developer & Admin
