@@ -15,6 +15,8 @@ I like to play games, weither its online with friends, card games, board games, 
 
 ## Current Works: (Discords Linked)
 - [Myself](https://www.github.com/DeveloperEnder)
+- [CMZ Studios](https://www.roblox.com/groups/5495873/CMZ-Studios#!/about) - CEO & President
+- [Milkhouse](https://www.roblox.com/groups/5310033/Milkhouse#!/about) - Chairman
 
 ### Minecraft
 - [TydiumCraft](https://discord.gg/6aQv2MgC9T) - Co Owner & Developer
@@ -45,8 +47,6 @@ I like to play games, weither its online with friends, card games, board games, 
 - [Programming Simplified](https://discord.gg/EeRh3MjuzQ) - Associate, Moderator
 
 ### Roblox
-- [CMZ Studios](https://www.roblox.com/groups/5495873/CMZ-Studios#!/about) - CEO & President
-- [Milkhouse](https://www.roblox.com/groups/5310033/Milkhouse#!/about) - Chairman
 - [Diamond9195 Commissions {aka Diamond's Scripting}](https://www.roblox.com/groups/5993023/Diamond9195-Commissions#!/about) - Trusted Member
 - [Panda Hotels & Resorts](https://www.roblox.com/groups/4131628/Panda-Hotels-Resorts#!/about) - Board of Directors
 - [Tracé](https://www.roblox.com/groups/11752506/Trac#!/about) - Board of Trustees & Bot Developer
