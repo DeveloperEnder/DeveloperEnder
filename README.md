@@ -19,7 +19,8 @@ I like to play games, weither its online with friends, card games, board games, 
 - [Milkhouse](https://www.roblox.com/groups/5310033/Milkhouse#!/about) - Chairman
 
 ### Minecraft
-- [Endless Skyblock (And Guild)]( https://discord.gg/nyvyhMQN6u) - Owner & Guild Master
+- [Endless Skyblock (And Guild)](https://discord.gg/nyvyhMQN6u) - Owner & Guild Master
+- [Bee SMP (Sponsored by TydiumCraft)](https://discord.gg/j2q9pPh5Rx) - Owner & Developer
 - [TydiumCraft](https://discord.gg/6aQv2MgC9T) - Co Owner & Developer
 - [SkyEternal](https://discord.gg/zN7DUkgQbD) - Developer
 - [Gamer Hub](https://discord.gg/EyhxAmh897) - Admin
