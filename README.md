@@ -26,8 +26,6 @@ I like to play games, weither its online with friends, card games, board games, 
 - [Gamer Hub](https://discord.gg/EyhxAmh897) - Admin
 - (REDACTED) - Manager & Developer
 - [GalaxyCraft](https://discord.gg/wqdw4qjvgB) - Manager & Developer
-- [Vibe's Network](https://discord.gg/jjKPkk94uY) - Owner & Head Developer
-- [JayTech Community](https://discord.gg/rDHMxb4fuq) - Developer & Admin
 
 ### Radio
 - [SolarRadio](https://discord.gg/gUMUGfsTtd) - Administrator (DJ+Executive)
@@ -39,10 +37,6 @@ I like to play games, weither its online with friends, card games, board games, 
 - [Vibez Network](https://discord.gg/ewVfW7Fg6p) - Co Owner
 - [Vibez Development](https://discord.gg/MPgjCwvSuB) - Support Member & Tester
 - [Beatz](https://discord.gg/JPTR85Vx3A) - Council
-
-### Companies
-- [Valur Corporation](https://discord.gg/Cb7zGS5enk) - COO (Sr. Management, Sr. Support, & Sr. Moderator)
-- [Valur.Host](https://discord.gg/xjBhjsQRKR) - Chief Financial Officer
 
 ### Non Profit Organizations
 - [School Simplified](https://discord.gg/school) - Associate Volunteer
