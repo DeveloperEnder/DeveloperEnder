@@ -35,7 +35,7 @@ I like to play games, weither its online with friends, card games, board games, 
 
 ### Development Discord
 - [Vibez Network](https://discord.gg/ewVfW7Fg6p) - Co Owner
-- [Vibez Development](https://discord.gg/MPgjCwvSuB) - Support Member & Tester
+- [Vibez Development](https://discord.gg/MPgjCwvSuB) - Support Member & Former Tester
 - [Beatz](https://discord.gg/JPTR85Vx3A) - Council
 
 ### Non Profit Organizations
