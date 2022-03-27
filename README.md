@@ -20,15 +20,10 @@ I like to play games, weither its online with friends, card games, board games, 
 
 ### Minecraft
 - [Endless Skyblock (And Guild)](https://discord.gg/nyvyhMQN6u) - Owner & Guild Master
-- [Bee SMP (Sponsored by TydiumCraft)](https://discord.gg/j2q9pPh5Rx) - Owner & Developer
 - [TydiumCraft](https://discord.gg/6aQv2MgC9T) - Co Owner & Developer
-- [SkyEternal](https://discord.gg/zN7DUkgQbD) - Developer
 - [Gamer Hub](https://discord.gg/EyhxAmh897) - Admin
 - (REDACTED) - Manager & Developer
 - [GalaxyCraft](https://discord.gg/wqdw4qjvgB) - Manager & Developer
-
-### Radio
-- [SolarRadio](https://discord.gg/gUMUGfsTtd) - Administrator (DJ+Executive)
 
 ### Competitive / Clan
 - [LiTPS](https://discord.gg/xTNbc2ftQ5) - Server Helper
@@ -36,7 +31,7 @@ I like to play games, weither its online with friends, card games, board games, 
 ### Development Discord
 - [Vibez Network](https://discord.gg/ewVfW7Fg6p) - Co Owner
 - [Vibez Development](https://discord.gg/MPgjCwvSuB) - Support Member & Former Tester
-- [Beatz](https://discord.gg/JPTR85Vx3A) - Council
+- [BeatzFM](https://discord.gg/JPTR85Vx3A) - Developer
 
 ### Non Profit Organizations
 - [School Simplified](https://discord.gg/school) - Associate Volunteer
