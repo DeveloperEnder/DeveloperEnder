@@ -1,11 +1,5 @@
 # Hello there! My name is Tyler!! All my information about me is below, check some of my stuff out!
 
-## Currently Learning:
-- Minecraft_Java
-- Discord_Javascript
-- HTML & CSS
-
-
 ## Socials:
 - [Discord](https://discord.gg/3PXjdem4Xx)
 - [YouTube](https://www.youtube.com/channel/UC9ft2pQjYnHhrAK7YOFUpUg)
