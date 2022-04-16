@@ -5,7 +5,7 @@
 - [YouTube](https://www.youtube.com/channel/UC9ft2pQjYnHhrAK7YOFUpUg)
 
 ## Hobbies:
-I like to play games, weither its online with friends, card games, board games, all types of games! Some games I like to play are Minecraft, COD, Roblox, GTA, FiveM, Valorant, Terraria, and some others! I also like music, I am currently learning how to play guitar. 
+I like to play games, weither its online with friends, card games, board games, all types of games! Some games I like to play are Minecraft, COD, Roblox, GTA, FiveM, Valorant, Terraria, CastleMinerZ and some others! I also like music, I am currently learning how to play guitar. 
 
 ## Current Works: (Discords Linked)
 - [Myself](https://www.github.com/DeveloperEnder)
@@ -19,6 +19,9 @@ I like to play games, weither its online with friends, card games, board games, 
 - (REDACTED) - Manager & Developer
 - [GalaxyCraft](https://discord.gg/wqdw4qjvgB) - Manager & Developer
 
+### Roblox
+- [Diamond9195 Commissions {aka Diamond's Scripting}](https://www.roblox.com/groups/5993023/Diamond9195-Commissions#!/about) - Trusted Member
+
 ### Competitive / Clan
 - [LiTPS](https://discord.gg/xTNbc2ftQ5) - Server Helper
 
@@ -30,12 +33,6 @@ I like to play games, weither its online with friends, card games, board games, 
 ### Non Profit Organizations
 - [School Simplified](https://discord.gg/school) - Associate Volunteer
 - [Programming Simplified](https://discord.gg/EeRh3MjuzQ) - Associate, Moderator
-
-### Roblox
-- [Diamond9195 Commissions {aka Diamond's Scripting}](https://www.roblox.com/groups/5993023/Diamond9195-Commissions#!/about) - Trusted Member
-- [Tracé](https://www.roblox.com/groups/11752506/Trac#!/about) - Board of Trustees & Bot Developer
-- [SlashFragmentOnline](https://discord.gg/rYK6H8ABmP) - Developer
-
 
 
 ## Github Stats
