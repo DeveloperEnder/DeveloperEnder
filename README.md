@@ -19,16 +19,15 @@ I like to play games, weither its online with friends, card games, board games, 
 - (REDACTED) - Manager & Developer
 - [GalaxyCraft](https://discord.gg/wqdw4qjvgB) - Manager & Developer
 
-### Roblox
-- [Diamond9195 Commissions {aka Diamond's Scripting}](https://www.roblox.com/groups/5993023/Diamond9195-Commissions#!/about) - Trusted Member
-
 ### Competitive / Clan
 - [LiTPS](https://discord.gg/xTNbc2ftQ5) - Server Helper
 
 ### Development Discord
+- [GoGo Services](https://discord.gg/rgpnC6NkPG) - Owner and Developer
 - [Vibez Network](https://discord.gg/ewVfW7Fg6p) - Co Owner
 - [Vibez Development](https://discord.gg/MPgjCwvSuB) - Support Member & Former Tester
 - [BeatzFM](https://discord.gg/JPTR85Vx3A) - Developer
+- #ROBLOX [Diamond9195 Commissions {aka Diamond's Scripting}](https://www.roblox.com/groups/5993023/Diamond9195-Commissions#!/about) - Trusted Member
 
 ### Non Profit Organizations
 - [School Simplified](https://discord.gg/school) - Associate Volunteer
