@@ -17,7 +17,7 @@ I like to play games, weither its online with friends, card games, board games, 
 - [TydiumCraft](https://discord.gg/6aQv2MgC9T) - Co Owner & Developer
 - [Gamer Hub](https://discord.gg/EyhxAmh897) - Admin
 - (REDACTED) - Manager & Developer
-- [GalaxyCraft](https://discord.gg/wqdw4qjvgB) - Manager & Developer
+- [SpookyNetwork](https://discord.gg/kBRDUFvczx) - Developer & Admin
 
 ### Competitive / Clan
 - [LiTPS](https://discord.gg/xTNbc2ftQ5) - Server Helper
