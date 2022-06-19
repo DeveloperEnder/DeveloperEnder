@@ -15,8 +15,6 @@ I like to play games, weither its online with friends, card games, board games, 
 ### Minecraft
 - [Endless Skyblock (And Guild)](https://discord.gg/nyvyhMQN6u) - Owner & Guild Master
 - [TydiumCraft](https://discord.gg/6aQv2MgC9T) - Co Owner & Developer
-- [Gamer Hub](https://discord.gg/EyhxAmh897) - Admin
-- (REDACTED) - Manager & Developer
 - [SpookyNetwork](https://discord.gg/kBRDUFvczx) - Developer & Admin
 
 ### Competitive / Clan
