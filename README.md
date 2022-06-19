@@ -13,7 +13,7 @@ I like to play games, weither its online with friends, card games, board games, 
 - [Milkhouse](https://www.roblox.com/groups/5310033/Milkhouse#!/about) - Chairman
 
 ### Minecraft
-- [Endless Skyblock (And Guild)](https://discord.gg/nyvyhMQN6u) - Owner & Guild Master
+- [Endless Skyblock](https://discord.gg/nyvyhMQN6u) - Owner & Guild Master
 - [TydiumCraft](https://discord.gg/6aQv2MgC9T) - Co Owner & Developer
 - [SpookyNetwork](https://discord.gg/kBRDUFvczx) - Developer & Admin
 
@@ -29,7 +29,7 @@ I like to play games, weither its online with friends, card games, board games, 
 
 ### Non Profit Organizations
 - [School Simplified](https://discord.gg/school) - Associate Volunteer
-- [Programming Simplified](https://discord.gg/EeRh3MjuzQ) - Associate, Moderator
+- [Programming Simplified](https://discord.gg/EeRh3MjuzQ) - Associate: Moderator + Events
 
 
 ## Github Stats
