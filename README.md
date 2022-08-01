@@ -5,7 +5,7 @@
 - [YouTube](https://www.youtube.com/channel/UC9ft2pQjYnHhrAK7YOFUpUg)
 
 ## Hobbies:
-I like to play games, weither its online with friends, card games, board games, all types of games! Some games I like to play are Minecraft, COD, Roblox, GTA, FiveM, Valorant, Terraria, CastleMinerZ and some others! I also like music, I am currently learning how to play guitar. 
+I like to play games, weither its online with friends, card games, board games, all types of games! Some games I like to play are Minecraft, COD, Roblox, Valorant, Terraria, CastleMinerZ and some others! I also like music, I am currently learning how to play guitar. 
 
 ## Current Works: (Discords Linked)
 - [Myself](https://www.github.com/DeveloperEnder)
@@ -13,23 +13,18 @@ I like to play games, weither its online with friends, card games, board games, 
 - [Milkhouse](https://www.roblox.com/groups/5310033/Milkhouse#!/about) - Chairman
 
 ### Minecraft
-- [Endless Skyblock](https://discord.gg/nyvyhMQN6u) - Owner & Guild Master
+- [Endless Skyblock](https://discord.gg/nyvyhMQN6u) - Owner
+- [Polar Bear Mafia](https://discord.gg/s2sekW4VKr) - Guild Master
 - [TydiumCraft](https://discord.gg/6aQv2MgC9T) - Co Owner & Developer
-- [SpookyNetwork](https://discord.gg/kBRDUFvczx) - Developer & Admin
-
-### Competitive / Clan
-- [LiTPS](https://discord.gg/xTNbc2ftQ5) - Server Helper
 
 ### Development Discord
 - [GoGo Services](https://discord.gg/rgpnC6NkPG) - Owner and Developer
-- [Vibez Network](https://discord.gg/ewVfW7Fg6p) - Co Owner
-- [Vibez Development](https://discord.gg/MPgjCwvSuB) - Support Member & Former Tester
-- [BeatzFM](https://discord.gg/JPTR85Vx3A) - Developer
-- #ROBLOX [Diamond9195 Commissions {aka Diamond's Scripting}](https://www.roblox.com/groups/5993023/Diamond9195-Commissions#!/about) - Trusted Member
+- [Vibez Development](https://discord.gg/MPgjCwvSuB) - Support Member
+- #ROBLOX [Diamond9195 Commissions {aka Diamond's Scripting}](https://www.roblox.com/groups/5993023/Diamond9195-Commissions#!/about) - Trusted Administrator
 
 ### Non Profit Organizations
 - [School Simplified](https://discord.gg/school) - Associate Volunteer
-- [Programming Simplified](https://discord.gg/EeRh3MjuzQ) - Associate: Moderator + Events
+- [Programming Simplified](https://discord.gg/EeRh3MjuzQ) - Mod Team Manager + Events Team
 
 
 ## Github Stats
