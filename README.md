@@ -19,7 +19,6 @@ I like to play games, weither its online with friends, card games, board games, 
 
 ### Development Discord
 - [GoGo Services](https://discord.gg/rgpnC6NkPG) - Owner and Developer
-- [Vibez Development](https://discord.gg/MPgjCwvSuB) - Support Member
 - #ROBLOX [Diamond9195 Commissions {aka Diamond's Scripting}](https://www.roblox.com/groups/5993023/Diamond9195-Commissions#!/about) - Trusted Administrator
 
 ### Non Profit Organizations
