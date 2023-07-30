@@ -7,11 +7,6 @@
 ## Hobbies:
 I like to play games, weither its online with friends, card games, board games, all types of games! Some games I like to play are Minecraft, COD, Roblox, Valorant, Terraria, CastleMinerZ and some others! I also like music, I am currently learning how to play guitar. 
 
-### Non Profit Organizations
-- [School Simplified](https://discord.gg/school) - Associate
-- [Programming Simplified](https://discord.gg/EeRh3MjuzQ) - Mod Team Manager + Events Team
-
-
 ## Github Stats
 
 ![](https://komarev.com/ghpvc/?username=DeveloperEnder)
