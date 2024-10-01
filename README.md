@@ -1,7 +1,7 @@
 # Hello there! My name is Tyler!! All my information about me is below, check some of my stuff out!
 
 ## Socials:
-- [Discord](https://discord.gg/3PXjdem4Xx)
+- [Discord](https://discord.gg/mc-dev)
 - [Twitch](https://twitch.tv/developerender)
 - [YouTube](https://www.youtube.com/channel/UC9ft2pQjYnHhrAK7YOFUpUg)
 
