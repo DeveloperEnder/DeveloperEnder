@@ -1,4 +1,4 @@
-# System.out.println("Hello, World)" print("My name is Tyler!")
+# System.out.println("Hello, World"); print("My name is Tyler!")
 <h3 align="center">Minecraft Developer and Manager</h3>
 
 ![](https://komarev.com/ghpvc/?username=DeveloperEnder)
